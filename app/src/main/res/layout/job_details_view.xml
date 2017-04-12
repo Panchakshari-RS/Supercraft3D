@@ -1,0 +1,48 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relative_addnew"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screen_background"
+    android:orientation="vertical"
+    >
+    <include
+        android:id="@+id/my_toolbar"
+        layout="@layout/mytoolbar"/>
+
+    <LinearLayout
+        android:layout_below="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/screen_background"
+        android:orientation="vertical"
+        >
+        <com.trova.supercraft.CustomViewPager
+            android:id="@+id/jobs_pager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginBottom="1dp"
+            />
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/jobs_tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/screen_background"
+            android:layout_below="@id/jobs_pager"
+            app:tabTextColor="#FFFFFF"
+            app:tabSelectedTextColor="#FFFFFF"
+            app:tabIndicatorColor="@color/colorPrimaryDark"
+            app:tabIndicatorHeight="0dp"
+            app:tabBackground="@drawable/ic_attach"
+            app:tabPaddingStart="0.5dp"
+            app:tabPaddingEnd="0.5dp"
+            app:tabMode="fixed"
+            android:elevation="6dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="1dp"
+            />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,59 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LoginActivity">
+    <!--item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" /-->
+
+    <item
+        android:id="@+id/archive"
+        android:title="Arc"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        app:actionLayout="@layout/actionbar_action_layout"
+        />
+
+    <item
+        android:id="@+id/delete"
+        android:title="Del"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        app:actionLayout="@layout/actionbar_action_layout"
+        />
+
+    <item
+        android:id="@+id/stop"
+        android:title="Stop"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        app:actionLayout="@layout/actionbar_action_layout"
+        />
+
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        app:actionLayout="@layout/actionbar_chat_notify_layout"
+        />
+
+    <item
+        android:id="@+id/notify"
+        android:title="Notify"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        app:actionLayout="@layout/actionbar_notify_layout"
+        />
+
+    <item
+        android:id="@+id/action"
+        android:title="Act"
+        android:icon="@drawable/action"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        />
+
+</menu>

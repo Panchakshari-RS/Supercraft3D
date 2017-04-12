@@ -1,0 +1,28 @@
+/* #register_btn
+{
+    background-color:mediumblue;
+}
+
+
+.name-list{margin-top:2px;}
+.name-list > span:first-child {
+    display: inline-block;
+    width: 60%;
+     position: relative;
+    top: -8px;
+}
+
+.phone > img {
+    background: #f0f0f0 none repeat scroll 0 0;
+    border-radius: 50% !important;
+    margin-right: 10px;
+	display: inline-block;
+    padding: 3px;
+    width: 15%;
+}
+
+.ui-bar.ui-footer.ui-bar-inherit.ui-footer-fixed.slideup {
+    padding-left: 0;
+}
+ */
+

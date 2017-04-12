@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_6475b3cc07a50e747b28c3ab61850e06b28d66ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d372d770e94a5c126a21cda5d9a60916c63b779">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5f5e00a2583ca8c6bc5e59d79afbe8d4743319fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-beta-1.2.2_8f0a2002b43475b333aecfe013fb1e56a01b9a9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android2.2\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_f737509902a77368b9c61b50ffc1fd73965059aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.4.1_b04a6867709637db96159e18b89017d0c45ac459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\AppData\Local\Android2.2\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_9a9ec74d9655ce22f80305ff62667eeff9e5048f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="933ee15f1696c3583a97e6f6d6662a97f0d2019d">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-2.0.0_c4aa7f8d9bd867f061261e36e810615ca24c277c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\SuperCraft\Trova\unspecified\jars\libs\libjingle_peerconnection_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c08f21cf6389f7d3b60c3bd38c4d80401bab02ec">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\8\libjingle_peerconnection_java_397e087b4afb86889cb92bc407ae8fe9f55c1ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_6696fea170e8503eda3afe155d7b73639210bbbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.12\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e052a32a30acd5705ab2d581fd4274c8ff263cb5">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-core-2.3.12_ac155e17a066fd2ca4e56db454f4f2d4cff35b26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_f0a866e516a718c078c4592e15d503f052e07e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_afee2e0d2ddd18d3dd251bb3895ec8fa9b7f120e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_9f355a19bea54fa0a120101943c3e99b4afb5e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_4ead540e7ca6f126c73bf740a70b23fe46bd6b2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_4c257911e781320b5f15218408c58d37cbc1d005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.14_4bcff63c1328054d21d3acf1e48134a1880cb44a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit-mock\2.0.2\befed42cb4fb8e85ef205b3facfd5b4e43fc1c8f\retrofit-mock-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="befed42cb4fb8e85ef205b3facfd5b4e43fc1c8f">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-mock-2.0.2_736d4a851ce8461b8194d1e694a05c2804953f2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.13\1b15445de91b048a6b74506dd8261daf74decdcd\aws-android-sdk-s3-2.2.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b15445de91b048a6b74506dd8261daf74decdcd">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.2.13_3272738e040667cb633ef569c80967e4ffe951dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_d59df31c29ce979f927d5a133c5ee57558c02948\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.13\251ebccacaad6a5036952dc6b259a2aabba38356\aws-android-sdk-cognito-2.2.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="251ebccacaad6a5036952dc6b259a2aabba38356">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.2.13_dda752375c5fb1af29306815ef99035168ded70a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_59bf46d6ec8902977048b5877884921273daec8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-answers-1.3.10_ee48a6eb8b6f5c9513f694fa8bbe54767fbfa24b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.digits.sdk.android\digits\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="83a7d86ff10cd399bb67b738e67ff61c498f3bb4">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.digits.sdk.android-digits-2.0.0_deb8236ec0bb65dc38b65d2a390ea6f2ebdc541f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\SuperCraft\Trova\unspecified\jars\libs\libjingle_peerconnection_metrics_default_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="34f5ddb43d372920e0ab63f0a05616b34528b38d">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\8\libjingle_peerconnection_metrics_default_java_69a724bab69e82edb6ca82d1233560fd4d465517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\libs\cordova-3.7.0-dev.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="06d2c478be01464ad3456549a8e4c07bcf7760be">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\2\cordova-3.7.0-dev_af681e49bc52176aa3612e8bc2e73b801bfd6d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_79a4d91ac550f016ca2449bfeb3debe7c2e6fe47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.13\bcb160fb9cb637c7908e77d473cdbdabdd80e2b9\aws-android-sdk-core-2.2.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bcb160fb9cb637c7908e77d473cdbdabdd80e2b9">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.2.13_cf129452ce63bd719630f38ba47103b639d05907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_29dce1520e366f46596c732abcd774a318a06934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_1f75db5ce671efc446b07f872c167243bf0e95c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_aa894048291a8b282a77e024a0b7af3e62f17779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_ef278bce8e005577b9f5e78b844386930ae83ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.android.support\percent\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1badcc3d0af60cfcab190ea7b78d060e824cfb1e">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-23.1.1_c0cb6938c7aec25325cfcbc137aa9c2ed48b15ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android2.2\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_7e7aad76b86f9580989e38eb29cbe89145fe5b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.8.1\c84b11d25ae405edc4260d2dcf430fdd21c2c8d9\engine.io-client-0.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c84b11d25ae405edc4260d2dcf430fdd21c2c8d9">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\engine.io-client-0.8.1_66ac8f466e0cc296fe0f09fcba75dc1bc366f840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_a5daecffed5b38fd6d01c130c30e80e8202c62a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_1f698e85f5b2b40392a4e294b182654c2c53fe02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_5c0226706ef7179b56f6f5f97e076d81f450d1ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_124ef9f93c5e1f8bf81968121d4e1537e92d846b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers-shim\0.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="29864b68d990da5b14dbff9fbecf10600bcf7603">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-answers-shim-0.0.4_6a89463d9229fd17fb2e9a53d4438092a988ebbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.6.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="945351720761133089e10b45ab9a8dce04fd4e3f">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-2.6.3_d71300b70d9cb20ecabb4cd7f9ba20d1cb01d854\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\SuperCraft\Trova\unspecified\jars\libs\base_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="035f3cc8fc1e08493173bc828fc418a2aa301788">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\8\base_java_b1ce4f07be84232326184fa110e17cf551c4eeac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\SuperCraft\Trova\unspecified\jars\libs\audio_device_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b204da486cf71cef3c0b4ed8f33e2e5df2a57300">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\8\audio_device_java_4b470d3afdeaabad7065007805561f7a07d232e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_50c474fc20a6a5ec8ac3ba969dbf3d1e6aac9de0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.13\c5e29c073cc8539c409c6ef39201f979031de0c1\aws-android-sdk-ddb-2.2.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5e29c073cc8539c409c6ef39201f979031de0c1">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.2.13_28c07dbae223fe4625cd0f3976c850afcfff739a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.8.1\b6c4a3afc589a8c6fa10ecc38eb1beede8006838\socket.io-client-0.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6c4a3afc589a8c6fa10ecc38eb1beede8006838">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\socket.io-client-0.8.1_b3b6b6c90cd181da203e245e9e94e09a9a79ef9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panchakshari\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.1\905075e6c80f206bbe6cf1e809d2caa69f420c76\commons-lang3-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.1_6e320543bdba437d5558f5ab494d987870d1fd76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Projects\SuperCraft\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="48d295221e6a3ca879f5958b786137452f20d8c6">
+        <dex dex="E:\Android_Projects\SuperCraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2ae7555b0aaa2ad371ff6deaa680c64db5f56673\classes.dex" />
+    </item>
+
+</items>

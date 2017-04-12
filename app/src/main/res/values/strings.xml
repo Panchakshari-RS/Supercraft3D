@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Supercraft3D</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="phone">Phone</string>
+    <string name="photo">Photo</string>
+    <string name="logintoproceed">Login to proceed</string>
+    <string name="password">Password</string>
+    <string name="confpassword">Confirm Password</string>
+    <string name="oldpassword">Old Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="confnewpassword">Confirm New Password</string>
+    <string name="regno">Registration No</string>
+    <string name="forgotpassword">Forgot Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_signup">Dont\'t have an account? Get Started</string>
+    <string name="new_signup_terms">By signing up you agree to our Terms of service.</string>
+    <string name="already">Already have an account? Login In</string>
+    <string name="approval">Do you realy want to approve this STL File?</string>
+    <string name="profile_pic_folder">/Profile/</string>
+
+    <string name="err_Email">Enter valid email</string>
+    <string name="err_Name">Enter valid name</string>
+    <string name="err_RegNo">Registration cannot be empty</string>
+    <string name="err_RegNoLen">Minimum length is 6</string>
+    <string name="err_Password">Password cannot be empty</string>
+    <string name="err_PasswordLen">Password has be minimum 6 characters</string>
+    <string name="err_ConfPass">Confirmation password cannot be empty</string>
+    <string name="err_PassConfPassEqual">Passwords do not match</string>
+
+    <string name="fa_notes">&#xf044;</string>
+    <string name="fa_approve">&#xf05d;</string>
+    <string name="fa_notify">&#xf0f3;</string>
+    <string name="fa_3dview">&#xf20e;</string>
+    <string name="fa_bell">&#xf0f3;</string>
+    <string name="fa_archive">&#xf187;</string>
+    <string name="fa_trash">&#xf1f8;</string>
+    <string name="fa_trasho">&#xf014;</string>
+    <string name="fa_stop">&#xf04d;</string>
+    <string name="fa_new">&#xf016;</string>
+    <string name="fa_inprogress">&#xf110;</string>
+    <string name="fa_completed">&#xf11e;</string>
+    <string name="fa_critical">&#xf071;</string>
+    <string name="mt_approve">&#xF5E1;</string>
+    <string name="mt_approve1">&#xF135;</string>
+    <string name="mt_approve2">&#xF4C6;</string>
+    <string name="mt_approve3">&#xF5E0;</string>
+    <string name="mt_3dview">&#xF175;</string>
+    <string name="mt_3dview1">&#xF00A;</string>
+    <string name="mt_3dview2">&#xF42B;</string>
+    <string name="mt_chat">&#xF181;</string>
+    <string name="mt_wechat">&#xF611;</string>
+    <string name="mt_notify_chat">&#xF184;</string>
+    <string name="mt_details">&#xF2FD;</string>
+    <string name="mt_notify">&#xF09A;</string>
+    <string name="mt_notes">&#xF3EB;</string>
+    <string name="mt_square">&#xF762;</string>
+    <string name="mt_square1">&#xF1A2;</string>
+    <string name="mt_notes1">&#xF0C9;</string>
+    <string name="mt_check">&#xF12C;</string>
+    <string name="mt_dcheck">&#xF12D;</string>
+    <string name="mt_video">&#xF567;</string>
+    <string name="mt_headphones">&#xF2CB;</string>
+    <string name="mt_document">&#xF214;</string>
+    <string name="mt_circle_check">&#xF133;</string>
+    <string name="mt_o_circle_check">&#xF5E1;</string>
+    <string name="mt_inprogress">&#xF06A;</string>
+    <string name="mt_new">&#xF394;</string>
+    <string name="mt_critical1">&#xF46E;</string>
+    <string name="mt_critical">&#xF151;</string>
+
+    <string name="fa_icon_areachart">&#xf1fe;</string>
+    <string name="fa_icon_piechart">&#xf200;</string>
+    <string name="fa_icon_linechart">&#xf201;</string>
+    <string name="fa_toggle_off">&#xf204;</string>
+    <string name="fa_toggle_on">&#xf205;</string>
+    <string name="fa_square_o">&#xf096;</string>
+    <string name="fa_check_square_o">&#xf046;</string>
+
+    <string-array name="country_codes">
+        <item>+93,AF,AFG</item>
+        <item>+355,AL,ALB</item>
+        <item>+213,DZ,DZA</item>
+        <item>+1,AS,ASM</item>
+        <item>+376,AD,AND</item>
+        <item>+244,AO,AGO</item>
+        <item>+1,AI,AIA</item>
+        <item>+672,AQ,ATA</item>
+        <item>+1,AG,ATG</item>
+        <item>+54,AR,ARG</item>
+        <item>+374,AM,ARM</item>
+        <item>+297,AW,ABW</item>
+        <item>+61,AU,AUS</item>
+        <item>+43,AT,AUT</item>
+        <item>+994,AZ,AZE</item>
+        <item>+1,BS,BHS</item>
+        <item>+973,BH,BHR</item>
+        <item>+880,BD,BGD</item>
+        <item>+1,BB,BRB</item>
+        <item>+375,BY,BLR</item>
+        <item>+32,BE,BEL</item>
+        <item>+501,BZ,BLZ</item>
+        <item>+229,BJ,BEN</item>
+        <item>+1,BM,BMU</item>
+        <item>+975,BT,BTN</item>
+        <item>+591,BO,BOL</item>
+        <item>+387,BA,BIH</item>
+        <item>+267,BW,BWA</item>
+        <item>+55,BR,BRA</item>
+        <item>+246,IO,IOT</item>
+        <item>+1,VG,VGB</item>
+        <item>+673,BN,BRN</item>
+        <item>+359,BG,BGR</item>
+        <item>+226,BF,BFA</item>
+        <item>+257,BI,BDI</item>
+        <item>+855,KH,KHM</item>
+        <item>+237,CM,CMR</item>
+        <item>+1,CA,CAN</item>
+        <item>+238,CV,CPV</item>
+        <item>+1,KY,CYM</item>
+        <item>+236,CF,CAF</item>
+        <item>+235,TD,TCD</item>
+        <item>+56,CL,CHL</item>
+        <item>+86,CN,CHN</item>
+        <item>+61,CX,CXR</item>
+        <item>+61,CC,CCK</item>
+        <item>+57,CO,COL</item>
+        <item>+269,KM,COM</item>
+        <item>+682,CK,COK</item>
+        <item>+506,CR,CRI</item>
+        <item>+385,HR,HRV</item>
+        <item>+53,CU,CUB</item>
+        <item>+599,CW,CUW</item>
+        <item>+357,CY,CYP</item>
+        <item>+420,CZ,CZE</item>
+        <item>+243,CD,COD</item>
+        <item>+45,DK,DNK</item>
+        <item>+253,DJ,DJI</item>
+        <item>+1,DM,DMA</item>
+        <item>+1,DO,DOM</item>
+        <item>+670,TL,TLS</item>
+        <item>+593,EC,ECU</item>
+        <item>+20,EG,EGY</item>
+        <item>+503,SV,SLV</item>
+        <item>+240,GQ,GNQ</item>
+        <item>+291,ER,ERI</item>
+        <item>+372,EE,EST</item>
+        <item>+251,ET,ETH</item>
+        <item>+500,FK,FLK</item>
+        <item>+298,FO,FRO</item>
+        <item>+679,FJ,FJI</item>
+        <item>+358,FI,FIN</item>
+        <item>+33,FR,FRA</item>
+        <item>+689,PF,PYF</item>
+        <item>+241,GA,GAB</item>
+        <item>+220,GM,GMB</item>
+        <item>+995,GE,GEO</item>
+        <item>+49,DE,DEU</item>
+        <item>+233,GH,GHA</item>
+        <item>+350,GI,GIB</item>
+        <item>+30,GR,GRC</item>
+        <item>+299,GL,GRL</item>
+        <item>+1,GD,GRD</item>
+        <item>+1,GU,GUM</item>
+        <item>+502,GT,GTM</item>
+        <item>+44,GG,GGY</item>
+        <item>+224,GN,GIN</item>
+        <item>+245,GW,GNB</item>
+        <item>+592,GY,GUY</item>
+        <item>+509,HT,HTI</item>
+        <item>+504,HN,HND</item>
+        <item>+852,HK,HKG</item>
+        <item>+36,HU,HUN</item>
+        <item>+354,IS,ISL</item>
+        <item>+91,IN,IND</item>
+        <item>+62,ID,IDN</item>
+        <item>+98,IR,IRN</item>
+        <item>+964,IQ,IRQ</item>
+        <item>+353,IE,IRL</item>
+        <item>+44,IM,IMN</item>
+        <item>+972,IL,ISR</item>
+        <item>+39,IT,ITA</item>
+        <item>+225,CI,CIV</item>
+        <item>+1,JM,JAM</item>
+        <item>+81,JP,JPN</item>
+        <item>+44,JE,JEY</item>
+        <item>+962,JO,JOR</item>
+        <item>+7,KZ,KAZ</item>
+        <item>+254,KE,KEN</item>
+        <item>+686,KI,KIR</item>
+        <item>+383,XK,XKX</item>
+        <item>+965,KW,KWT</item>
+        <item>+996,KG,KGZ</item>
+        <item>+856,LA,LAO</item>
+        <item>+371,LV,LVA</item>
+        <item>+961,LB,LBN</item>
+        <item>+266,LS,LSO</item>
+        <item>+231,LR,LBR</item>
+        <item>+218,LY,LBY</item>
+        <item>+423,LI,LIE</item>
+        <item>+370,LT,LTU</item>
+        <item>+352,LU,LUX</item>
+        <item>+853,MO,MAC</item>
+        <item>+389,MK,MKD</item>
+        <item>+261,MG,MDG</item>
+        <item>+265,MW,MWI</item>
+        <item>+60,MY,MYS</item>
+        <item>+960,MV,MDV</item>
+        <item>+223,ML,MLI</item>
+        <item>+356,MT,MLT</item>
+        <item>+692,MH,MHL</item>
+        <item>+222,MR,MRT</item>
+        <item>+230,MU,MUS</item>
+        <item>+262,YT,MYT</item>
+        <item>+52,MX,MEX</item>
+        <item>+691,FM,FSM</item>
+        <item>+373,MD,MDA</item>
+        <item>+377,MC,MCO</item>
+        <item>+976,MN,MNG</item>
+        <item>+382,ME,MNE</item>
+        <item>+1,MS,MSR</item>
+        <item>+212,MA,MAR</item>
+        <item>+258,MZ,MOZ</item>
+        <item>+95,MM,MMR</item>
+        <item>+264,NA,NAM</item>
+        <item>+674,NR,NRU</item>
+        <item>+977,NP,NPL</item>
+        <item>+31,NL,NLD</item>
+        <item>+599,AN,ANT</item>
+        <item>+687,NC,NCL</item>
+        <item>+64,NZ,NZL</item>
+        <item>+505,NI,NIC</item>
+        <item>+227,NE,NER</item>
+        <item>+234,NG,NGA</item>
+        <item>+683,NU,NIU</item>
+        <item>+850,KP,PRK</item>
+        <item>+1,MP,MNP</item>
+        <item>+47,NO,NOR</item>
+        <item>+968,OM,OMN</item>
+        <item>+92,PK,PAK</item>
+        <item>+680,PW,PLW</item>
+        <item>+970,PS,PSE</item>
+        <item>+507,PA,PAN</item>
+        <item>+675,PG,PNG</item>
+        <item>+595,PY,PRY</item>
+        <item>+51,PE,PER</item>
+        <item>+63,PH,PHL</item>
+        <item>+64,PN,PCN</item>
+        <item>+48,PL,POL</item>
+        <item>+351,PT,PRT</item>
+        <item>+1,PR,PRI</item>
+        <item>+974,QA,QAT</item>
+        <item>+242,CG,COG</item>
+        <item>+262,RE,REU</item>
+        <item>+40,RO,ROU</item>
+        <item>+7,RU,RUS</item>
+        <item>+250,RW,RWA</item>
+        <item>+590,BL,BLM</item>
+        <item>+290,SH,SHN</item>
+        <item>+1,KN,KNA</item>
+        <item>+1,LC,LCA</item>
+        <item>+590,MF,MAF</item>
+        <item>+508,PM,SPM</item>
+        <item>+1,VC,VCT</item>
+        <item>+685,WS,WSM</item>
+        <item>+378,SM,SMR</item>
+        <item>+239,ST,STP</item>
+        <item>+966,SA,SAU</item>
+        <item>+221,SN,SEN</item>
+        <item>+381,RS,SRB</item>
+        <item>+248,SC,SYC</item>
+        <item>+232,SL,SLE</item>
+        <item>+65,SG,SGP</item>
+        <item>+1,SX,SXM</item>
+        <item>+421,SK,SVK</item>
+        <item>+386,SI,SVN</item>
+        <item>+677,SB,SLB</item>
+        <item>+252,SO,SOM</item>
+        <item>+27,ZA,ZAF</item>
+        <item>+82,KR,KOR</item>
+        <item>+211,SS,SSD</item>
+        <item>+34,ES,ESP</item>
+        <item>+94,LK,LKA</item>
+        <item>+249,SD,SDN</item>
+        <item>+597,SR,SUR</item>
+        <item>+47,SJ,SJM</item>
+        <item>+268,SZ,SWZ</item>
+        <item>+46,SE,SWE</item>
+        <item>+41,CH,CHE</item>
+        <item>+963,SY,SYR</item>
+        <item>+886,TW,TWN</item>
+        <item>+992,TJ,TJK</item>
+        <item>+255,TZ,TZA</item>
+        <item>+66,TH,THA</item>
+        <item>+228,TG,TGO</item>
+        <item>+690,TK,TKL</item>
+        <item>+676,TO,TON</item>
+        <item>+1,TT,TTO</item>
+        <item>+216,TN,TUN</item>
+        <item>+90,TR,TUR</item>
+        <item>+993,TM,TKM</item>
+        <item>+1,TC,TCA</item>
+        <item>+688,TV,TUV</item>
+        <item>+1,VI,VIR</item>
+        <item>+256,UG,UGA</item>
+        <item>+380,UA,UKR</item>
+        <item>+971,AE,ARE</item>
+        <item>+44,GB,GBR</item>
+        <item>+1,US,USA</item>
+        <item>+598,UY,URY</item>
+        <item>+998,UZ,UZB</item>
+        <item>+678,VU,VUT</item>
+        <item>+379,VA,VAT</item>
+        <item>+58,VE,VEN</item>
+        <item>+84,VN,VNM</item>
+        <item>+681,WF,WLF</item>
+        <item>+212,EH,ESH</item>
+        <item>+967,YE,YEM</item>
+        <item>+260,ZM,ZMB</item>
+        <item>+263,ZW,ZWE</item>
+    </string-array>
+
+    <string-array name="hospitals">
+        <item>Apollo Specialty Hospital</item>
+        <item>Mallya Hospital</item>
+        <item>Apollo Hospital</item>
+        <item>Columbia Asia Medical Center</item>
+        <item>Chinmaya Narayana Hrudayalaya</item>
+        <item>Abhaya Hospital</item>
+        <item>Narayana Health</item>
+        <item>Vinayaka Hospital</item>
+        <item>Gangothri Hospital</item>
+        <item>Aveksha Hospital</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item>Anaesthesiology</item>
+        <item>Dermatology</item>
+        <item>General Medicine</item>
+        <item>Obsterics &amp; Gynaecology</item>
+        <item>Chinmaya Narayana Hrudayalaya</item>
+        <item>Orthopaedics &amp; Trauma</item>
+        <item>Paediatrics</item>
+        <item>TB &amp; Chest</item>
+        <item>Dental Surgery</item>
+        <item>Ent,Head and Neck Services</item>
+    </string-array>
+
+    <string name="doc">Document</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+
+    <string-array name="attachment">
+        <item>@string/doc</item>
+        <item>@string/camera</item>
+        <item>@string/gallery</item>
+        <item>@string/video</item>
+        <item>@string/audio</item>
+    </string-array>
+
+    <string-array name="menu">
+        <item>Profile</item>
+        <item>Password</item>
+    </string-array>
+
+</resources>

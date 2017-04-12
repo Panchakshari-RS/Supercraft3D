@@ -1,0 +1,38 @@
+    #chat_page, body{
+        background: #ecf0f1;
+    }
+    .loginform_new.ui-page-theme-a a, html .ui-bar-a a, html .ui-body-a a, html body .ui-group-theme-a a {
+			text-shadow: none !important;
+	}
+	.center-align h5{
+		color:  #34495E;
+		font-weight: bold;
+		letter-spacing: 2px;
+		margin-bottom: 0px;
+		margin-top:50px;
+	}
+	.center-align span{
+	    margin-bottom:20px;
+	    font-size: 12px;
+	    display:inline-block;
+	    color: #34495E;
+	}
+	/*#login-form .signup_btn{
+        z-index:0;
+        color:#fff!important;
+        background:#00A1DE;
+        text-shadow:none;
+        font-weight:normal;
+    }*/
+	#login-form .signup_btn, #chat-form .login_btn{
+        z-index:0;
+        color:#fff!important;
+        background:#00A1DE;
+        text-shadow:none;
+        font-weight:normal;
+    }
+    .input-w label, .input-w input {
+        float: none; /* if you had floats before? otherwise inline-block will behave differently */
+        display: inline-block;
+        vertical-align: middle;
+    }

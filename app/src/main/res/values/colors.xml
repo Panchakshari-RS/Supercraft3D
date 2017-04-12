@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#797979</color>
+    <color name="focus_color">#909090</color>
+    <color name="job_count_color">#00A1DC</color>
+    <color name="icon_color">#FDBF33</color>
+    <color name="colorPrimary">#F26941</color>
+    <color name="colorPrimaryDark">#F44816</color>
+    <color name="colorAccent">#F26941</color>
+    <color name="basecolor">#F26941</color>
+    <color name="black">#000000</color>
+    <color name="screenBackground">#FDBF33</color>
+    <color name="background">#e9ebee</color>
+    <color name="new_tab_color">#90a4ae</color>
+    <color name="inprogress_tab_color">#64B5f6</color>
+    <color name="completed_tab_color">#81c784</color>
+
+</resources>

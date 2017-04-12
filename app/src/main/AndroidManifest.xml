@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.trova.supercraft" >
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.GET_TOP_ACTIVITY_INFO"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:name=".MyApp"
+        >
+        <activity
+            android:name=".LoginActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegistrationActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".MessageActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".ImageViewer"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".MyJobsActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".MyJobDetailsActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".RawActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".TwitterDigitsActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Notification.ChatNotificationActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Notification.NotificationActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Profile.MyEditProfileActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Profile.MyChangePasswordActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Profile.MyProfileActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize"
+            android:screenOrientation="portrait">
+        </activity>
+        <receiver
+            android:name=".MyBroadCastReceiver"
+            android:label="MyBroadCastReceiver" >
+        </receiver>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="0242fa191caeae6b831b0dad9021b735c7e29607" />
+    </application>
+
+</manifest>

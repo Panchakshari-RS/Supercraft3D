@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns     = "https://www.trova.in"
+        id        = "com.trova.supercraft"
+        version   = "1.0.0">
+    <name>Super Craft</name>
+
+    <description>
+        A supercraft3d application.
+    </description>
+
+    <author href="https://www.trova.in" email="panchakshari.rs@trova.in">
+        Trova Team
+    </author>
+
+    <access origin="*"/>
+
+    <content src="index.html" />
+
+    <preference name="loglevel" value="DEBUG" />
+    <feature name="App">
+        <param name="android-package" value="org.apache.cordova.App" />
+    </feature>
+</widget>
